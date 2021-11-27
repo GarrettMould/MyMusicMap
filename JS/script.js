@@ -58,7 +58,7 @@ var sortable = new Sortable(allPlaylists, {
   ghostClass: "sortable-ghost", // Class name for the drop placeholder
   chosenClass: "sortable-chosen", // Class name for the chosen item
   dragClass: "sortable-drag", // Class name for the dragging item
-  delay: 300,
+  
 });
 
 /// DRAGGABLES LIBRARY
