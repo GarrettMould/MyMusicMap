@@ -1,4 +1,5 @@
 #MyMusicMap
+
 A mobile application that allows users to create a timeline of the albums that played an important part of their life.
 
 Created using JavaScript, jQuery, HTML, CSS, Sass, and AudioDB API
