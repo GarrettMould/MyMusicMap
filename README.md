@@ -26,7 +26,7 @@ A mobile application that allows users to create a timeline of the albums that p
 ![MMM4](https://user-images.githubusercontent.com/86705418/150731955-0c8ab3e3-3395-471f-8e7d-363acf788477.jpg)
 
 ## Search for Albums by Artist
-![MMM2](https://user-images.githubusercontent.com/86705418/150731239-0555c274-2393-410c-9bc2-4bb4e6216197.jpg)
+![MMM2](https://user-images.githubusercontent.com/86705418/150731953-ac330dd5-f89b-4ffb-981b-c6b7ed263c5f.jpg)
 
 ## Add Search Results to Playlist 
 ![MMM6](https://user-images.githubusercontent.com/86705418/150731960-5de2fdc9-b177-4199-a728-3e6bf7a0ee01.jpg)
