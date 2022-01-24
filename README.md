@@ -16,24 +16,24 @@ A mobile application that allows users to create a timeline of the albums that p
 
 ## Screenshots 
 
-### MyMusicMap Homepage
-![MMM1](https://user-images.githubusercontent.com/86705418/150731240-998dfc91-1bce-4173-856d-5d5778604ddc.jpg)
+## MyMusicMap Homepage
+![MMM1](https://user-images.githubusercontent.com/86705418/150731946-9c570926-f785-4169-9ca7-18fe6dfe5e1b.jpg)
 
-### Add a Section 
-![MMM7](https://user-images.githubusercontent.com/86705418/150731226-c3d680ae-6430-49a4-b076-817a8e53592c.jpg)
+## Add a Section 
+![MMM7](https://user-images.githubusercontent.com/86705418/150731962-dea690b0-08e8-4e34-b9e4-b79f5ff690f2.jpg)
 
-### Remove a Section
-![MMM4](https://user-images.githubusercontent.com/86705418/150731233-d7ee6cf5-33de-4fdb-8613-3404733d3f4f.jpg)
+## Remove a Section
+![MMM4](https://user-images.githubusercontent.com/86705418/150731955-0c8ab3e3-3395-471f-8e7d-363acf788477.jpg)
 
-### Search for Albums by Artist
+## Search for Albums by Artist
 ![MMM2](https://user-images.githubusercontent.com/86705418/150731239-0555c274-2393-410c-9bc2-4bb4e6216197.jpg)
 
-### Add Search Results to Playlist 
-![MMM6](https://user-images.githubusercontent.com/86705418/150731229-6037bdd8-6b7c-475b-b5cb-43a98c9ecd98.jpg)
+## Add Search Results to Playlist 
+![MMM6](https://user-images.githubusercontent.com/86705418/150731960-5de2fdc9-b177-4199-a728-3e6bf7a0ee01.jpg)
 
-### Move Album from One Playlist to Another / Delete Album from Playlist 
-![MMM5](https://user-images.githubusercontent.com/86705418/150731232-8a5ba40a-9292-446d-92a5-76386ada3eef.jpg)
+## Move Album from One Playlist to Another / Delete Album from Playlist 
+![MMM5](https://user-images.githubusercontent.com/86705418/150731959-5f00b37a-4408-4f39-846a-2b27df6eeebb.jpg)
 
-### Reorder Playlists (Hold and Drag) 
-![MMM3](https://user-images.githubusercontent.com/86705418/150731235-6d2f6820-bd62-4e54-89d2-d4a1a3d2021e.jpg)
+## Reorder Playlists (Hold and Drag) 
+![MMM3](https://user-images.githubusercontent.com/86705418/150731954-70751f10-9e6e-4769-8b90-dfa99caa4fef.jpg)
 
